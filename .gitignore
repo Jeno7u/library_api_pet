@@ -1,0 +1,5 @@
+env
+.env
+library_api/.env
+library_api/__pycache__/
+base/__pycache__/
